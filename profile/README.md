@@ -1,0 +1,30 @@
+# 🙋‍ 2022.2 - Módulo Modelo Preditivo - Turma 3 - Rappi
+
+## 🔍 O problema:
+
+
+
+## 🎯 O objetivo:
+
+
+
+## 🧩 O público-alvo:
+
+
+
+## 💻 Desenvolvimento WEB:
+
+- Grupo 1 - RappIA - Modelo Preditivo de Churn de Entregadores - Rappi:
+  - Link do repositório: https://github.com/2022M3T3/RappIA
+
+- Grupo 2 - Rappitenderos - Rappi - Modelo Preditivo Null Churn:
+  - Link do repositório: https://github.com/2022M3T3/Rappitenderos
+  
+- Grupo 3 - GCPI:
+  - Link do repositório: https://github.com/2022M3T3/GCPI
+  
+- Grupo 4 - Rappi-Hour - DRappi Hour Predctive Model:
+  - Link do repositório: https://github.com/2022M3T3/Rappi-Hour
+  
+- Grupo 5 - Happi - Happi Prediction System:
+  - Link do repositório: https://github.com/2022M3T3/Happi
