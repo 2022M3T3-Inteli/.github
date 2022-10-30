@@ -6,16 +6,16 @@ Desenvolvimento de Modelo Preditivo com objetivo de prever quais entregadores t�
 ## 💻 Lógica para predição com inteligência artificial:
 
 - Grupo 1 - RappIA - Modelo Preditivo de Churn de Entregadores - Rappi:
-  - Link do repositório: https://github.com/2022M3T3/RappIA
+  - Link do repositório: https://github.com/2022M3T3-inteli/RappIA
 
 - Grupo 2 - Rappitenderos - Rappi - Modelo Preditivo Null Churn:
-  - Link do repositório: https://github.com/2022M3T3/Rappitenderos
+  - Link do repositório: https://github.com/2022M3T3-inteli/Rappitenderos
   
 - Grupo 3 - GCPI:
-  - Link do repositório: https://github.com/2022M3T3/GCPI
+  - Link do repositório: https://github.com/2022M3T3-inteli/GCPI
   
 - Grupo 4 - Rappi-Hour - DRappi Hour Predctive Model:
-  - Link do repositório: https://github.com/2022M3T3/Rappi-Hour
+  - Link do repositório: https://github.com/2022M3T3-inteli/Rappi-Hour
   
 - Grupo 5 - Happi - Happi Prediction System:
-  - Link do repositório: https://github.com/2022M3T3/Happi
+  - Link do repositório: https://github.com/2022M3T3-inteli/Happi
