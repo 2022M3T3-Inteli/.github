@@ -1,15 +1,9 @@
 # 🙋‍ 2022.2 - Módulo Modelo Preditivo - Turma 3 - Rappi
 
-## 🔍 O problema:
-
-
 ## 🎯 O objetivo:
 Desenvolvimento de Modelo Preditivo com objetivo de prever quais entregadores têm maior probabilidade de deixar de fazer entregas com o Rappi, além de criar estratégias para mantê-los.
 
-## 🧩 O público-alvo:
-
-
-## 💻 Desenvolvimento WEB:
+## 💻 Lógica para predição com inteligência artificial:
 
 - Grupo 1 - RappIA - Modelo Preditivo de Churn de Entregadores - Rappi:
   - Link do repositório: https://github.com/2022M3T3/RappIA
