@@ -3,13 +3,10 @@
 ## 🔍 O problema:
 
 
-
 ## 🎯 O objetivo:
-
-
+Desenvolvimento de Modelo Preditivo com objetivo de prever quais entregadores têm maior probabilidade de deixar de fazer entregas com o Rappi, além de criar estratégias para mantê-los.
 
 ## 🧩 O público-alvo:
-
 
 
 ## 💻 Desenvolvimento WEB:
