@@ -1,7 +1,13 @@
 # 🙋‍ 2022.2 - Módulo Modelo Preditivo - Turma 3 - Rappi
 
+## 🔍 O problema:
+Abandono da plataforma pelos entregadores.
+
 ## 🎯 O objetivo:
 Desenvolvimento de Modelo Preditivo com objetivo de prever quais entregadores têm maior probabilidade de deixar de fazer entregas com o Rappi, além de criar estratégias para mantê-los.
+
+## 🧩 O público-alvo:
+Time de Operações RAPPI.
 
 ## 💻 Lógica para predição com inteligência artificial:
 
